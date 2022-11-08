@@ -21,17 +21,17 @@ Check the readme file for October 25th to refresh your memory.
     <style>
       body {
       background-color: lightblue;
-    }
+      }
 
-    h1 {
-      color: white;
-      text-align: center;
-    }
+      h1 {
+        color: white;
+        text-align: center;
+      }
 
-    p {
-      font-family: verdana;
-      font-size: 20px;
-    }
+      p {
+        font-family: verdana;
+        font-size: 20px;
+      }
     </style>
   </head>
 <body>
