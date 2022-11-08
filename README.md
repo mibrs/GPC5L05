@@ -10,7 +10,7 @@ Check the readme file for October 25th to refresh your memory.
 
 ### What will you do today?
 #### Learn about CSS
-- [ ] Discover CSS with [w3schools.com](https://www.w3schools.com/css/default.asp). [What is CSS about?](221108_CSS_w3schools_Intro.png)
+- [ ] Discover CSS with [w3schools.com](https://www.w3schools.com/css/default.asp). ![What is CSS about?](221108_CSS_w3schools_Intro.png)
 - [ ] Spend some time to assemble at least 3 styles with the content styles in the w3schools editor.
 - [ ] Copy and paste your work to your index.html file on GitHub and modify your HTML code when necessary. 
 
