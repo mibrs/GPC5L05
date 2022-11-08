@@ -15,7 +15,7 @@ Check the readme file for October 25th to refresh your memory.
 - [ ] Copy and paste your work to your index.html file on GitHub and modify your HTML code when necessary. It is important to put the CSS code at the proper location. Add <style> tags as shown in the example below inside the <head> tags and place your CSS code inside the <style> tags. See the example here, the indentations are not mandatory but make the code more readable.
   
 ``` css
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <style>
