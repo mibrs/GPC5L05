@@ -3,7 +3,7 @@
 This repo (short for repository) contains the activities for today's session. Download the repository as a zip file and then use its contents while working on the tasks outlined here in this readme file.
 
 #### What will you do today?
-- Revise and refine your skills you have done so far,
+- Revise and refine your skills you have learned so far,
   - Creating and maintaining a website using HTML
   - Making audio recordings with Audacity and publish the content on a website.
 Check the readme file for October 25th to refresh your memory.
