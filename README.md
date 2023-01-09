@@ -11,7 +11,26 @@ This repo (short for repository) contains the activities for today's session. If
 
 #### Audio Recording with Audacity
 
-tbd
+##### Audacity settings for Windows 10 to record system sounds
+
+This [blog post](https://mibrs.github.io/audio/web-design/2021/12/14/EMusic-Recording.html) shows the settings for Audacity, please choose them as shown in the red ellipses.
+
+The code snippet below adds an audio player that allows you to play the mp3 file "220516Rec1.mp3" that has been saved in the folder "assets" inside your repository.
+
+``` language=html
+<div>
+  <audio controls>
+    <source src="/assets/220516Rec1.mp3" type="audio/mpeg">
+  </audio>
+</div>
+```
+
+##### A Fun Music Source to Create Some Audio Content
+
+[Ableton Learning Music](https://learningmusic.ableton.com) is another fun way to make music. Use Audacity as described above to record your own production.
+
+
+tbd 
 
 #### Learn about MAX 8 *(material needs to be moved!)*
 
